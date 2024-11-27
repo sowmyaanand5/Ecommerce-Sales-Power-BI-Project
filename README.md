@@ -8,17 +8,20 @@ Data
 Dataset and Its Information:
 
 1.	Sales Data:
+   
   •	Revenue Trends: Tracks total revenue and monthly growth patterns.
+  
   •	Profit Metrics: Insights into overall profit and product profitability.
-2.	Customer Demographics:
+  
+3.	Customer Demographics:
   •	Top Customers: Revenue contributions from high-value customers.
   •	Regional Sales Distribution: Sales segmented by geographical regions.
-3.	Product Performance:
+4.	Product Performance:
   •	Category and Sub-category Trends: Performance of various product categories such as clothing, electronics and furniture.
   •	Top-Selling Products: Identification of products driving revenue and high sales volumes.
-4.	Payment Methods:
+5.	Payment Methods:
   •	Mode of Payment: Breakdown of sales by payment types such as Cash on Delivery (COD), UPI, Credit Card and Debit Card.
-5.	Engagement Metrics:
+6.	Engagement Metrics:
   •	Order Quantity: Total number of units sold.
   •	Average Order Value (AOV): Measures the average revenue per order.
 
