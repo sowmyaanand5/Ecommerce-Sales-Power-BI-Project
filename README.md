@@ -1,11 +1,11 @@
 # Ecommerce-Sales-Power-BI-Project
 
-##Overview
+## Overview
 
 This Power BI report offers a detailed analysis of e-commerce sales data, focusing on product performance, customer purchasing behaviour, seasonal demand patterns, payment methods and revenue trends. It provides actionable insights into sales growth, customer preferences and engagement patterns, enabling strategic decision-making for inventory management, marketing optimization, and market expansion.
 
 
-##Data
+## Data
 Dataset and Its Information:
 
 1.	Sales Data:
@@ -37,7 +37,7 @@ Dataset and Its Information:
      •	Average Order Value (AOV): Measures the average revenue per order.
 
 
-##Key Features
+## Key Features
 
 1.	Sales and Profit Insights:
    
@@ -62,7 +62,7 @@ Dataset and Its Information:
      •	Visualizes customer preferences for payment methods.
 
 
-##Conclusion
+## Conclusion
 
 This Power BI analysis provides a comprehensive overview of the e-commerce sales landscape, highlighting key metrics such as revenue trends, product performance  and customer preferences. It serves as a valuable resource for businesses to identify growth opportunities, optimize product strategies and understand payment and seasonal trends. By leveraging these insights, E-commerce companies can make data-driven decisions to enhance customer engagement, streamline operations and drive sustainable business growth in a competitive market.
 
