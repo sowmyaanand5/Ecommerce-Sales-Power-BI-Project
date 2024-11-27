@@ -6,7 +6,7 @@ This Power BI report offers a detailed analysis of e-commerce sales data, focusi
 
 
 ## Data
-Dataset and Its Information:
+Dataset and its Information:
 
 1.	Sales Data:
    
