@@ -13,17 +13,27 @@ Dataset and Its Information:
       
       •	Profit Metrics: Insights into overall profit and product profitability.
   
-3.	Customer Demographics:
-  •	Top Customers: Revenue contributions from high-value customers.
-  •	Regional Sales Distribution: Sales segmented by geographical regions.
-4.	Product Performance:
-  •	Category and Sub-category Trends: Performance of various product categories such as clothing, electronics and furniture.
-  •	Top-Selling Products: Identification of products driving revenue and high sales volumes.
-5.	Payment Methods:
-  •	Mode of Payment: Breakdown of sales by payment types such as Cash on Delivery (COD), UPI, Credit Card and Debit Card.
+2.	Customer Demographics:
+   
+     •	Top Customers: Revenue contributions from high-value customers.
+     
+     •	Regional Sales Distribution: Sales segmented by geographical regions.
+  
+3.	Product Performance:
+   
+     •	Category and Sub-category Trends: Performance of various product categories such as clothing, electronics and furniture.
+     
+     •	Top-Selling Products: Identification of products driving revenue and high sales volumes.
+  
+4.	Payment Methods:
+   
+     •	Mode of Payment: Breakdown of sales by payment types such as Cash on Delivery (COD), UPI, Credit Card and Debit Card.
+  
 6.	Engagement Metrics:
-  •	Order Quantity: Total number of units sold.
-  •	Average Order Value (AOV): Measures the average revenue per order.
+   
+     •	Order Quantity: Total number of units sold.
+     
+     •	Average Order Value (AOV): Measures the average revenue per order.
 
 Key Features
 
