@@ -8,6 +8,7 @@ Data
 Dataset and Its Information:
 
 1.	Sales Data:
+   
    •	Revenue Trends: Tracks total revenue and monthly growth patterns.
    •	Profit Metrics: Insights into overall profit and product profitability.
   
