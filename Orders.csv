@@ -1,0 +1,501 @@
+Order ID,Order Date,CustomerName,State,City
+G-26055,10-03-2023,Harivansh,Uttar Pradesh,Mathura
+G-25993,03-02-2023,Madhav,Delhi,Delhi
+G-25973,24-01-2023,Madan Mohan,Uttar Pradesh,Mathura
+G-25923,27-12-2023,Gopal,Maharashtra,Mumbai
+G-25757,21-08-2023,Vishakha,Madhya Pradesh,Indore
+G-25967,21-01-2023,Sudevi,Uttar Pradesh,Prayagraj
+G-25955,16-01-2023,Shiva,Karnataka,Bangalore
+G-26093,27-03-2023,Sarita,Karnataka,Mangalore
+G-25798,01-10-2023,Spartan,Andhra Pradesh,Hyderabad
+G-25602,01-04-2023,Vrinda,Maharashtra,Pune
+G-25858,13-11-2023,Michael,Maharashtra,Mumbai
+G-25969,21-01-2023,Shreyshi,Tamil Nadu,Coimbatore
+G-26099,30-03-2023,Vishwas,Maharashtra,Mumbai
+G-25997,04-02-2023,Yogesh,Karnataka,Bangalore
+G-25881,25-11-2023,Lalita,Karnataka,Bangalore
+G-25761,25-08-2023,Madhav,Uttar Pradesh,Mathura
+G-25887,01-12-2023,Vishakha,Karnataka,Mangalore
+G-25823,18-10-2023,Rohan,Maharashtra,Mumbai
+G-25853,08-11-2023,Gaurav,Gujarat,Ahmedabad
+G-25862,15-11-2023,Amol,Bihar,Patna
+G-25830,26-10-2023,Aastha,Himachal Pradesh,Simla
+G-25786,19-09-2023,Madan Mohan,Uttar Pradesh,Mathura
+G-25686,11-06-2023,Pooja,Himachal Pradesh,Simla
+G-26022,18-02-2023,Shrichand,Punjab,Chandigarh
+G-26003,08-02-2023,Hitesh,Madhya Pradesh,Bhopal
+G-25755,19-08-2023,Shourya,Kerala ,Thiruvananthapuram
+G-25902,10-12-2023,Ishpreet,Maharashtra,Mumbai
+G-25935,04-01-2023,Sudhir,Nagaland,Kohima
+G-25797,30-09-2023,Sauptik,Madhya Pradesh,Indore
+G-25639,27-04-2023,Lisha,Madhya Pradesh,Bhopal
+G-25681,04-06-2023,Bhawna,Tamil Nadu,Coimbatore
+G-25909,13-12-2023,Sujay,Tamil Nadu,Coimbatore
+G-25910,14-12-2023,Jay,Delhi,Delhi
+G-25950,13-01-2023,Shruti,Madhya Pradesh,Indore
+G-25613,12-04-2023,Mohan,Haryana,Chandigarh
+G-25919,23-12-2023,Neha,Rajasthan,Udaipur
+G-25768,01-09-2023,Shreyoshe,Karnataka,Bangalore
+G-25629,24-04-2023,Hemant,Kerala ,Thiruvananthapuram
+G-25729,22-07-2023,Madhulika,Madhya Pradesh,Bhopal
+G-25943,09-01-2023,Shardul,Gujarat,Ahmedabad
+G-25842,02-11-2023,Sheetal,Maharashtra,Pune
+G-26073,21-03-2023,Pournamasi,Madhya Pradesh,Indore
+G-25778,11-09-2023,Surabhi,Maharashtra,Mumbai
+G-25717,12-07-2023,Manshul,Uttar Pradesh,Lucknow
+G-26085,26-03-2023,Shrichand,Punjab,Chandigarh
+G-26048,04-03-2023,Parth,Maharashtra,Pune
+G-25793,24-09-2023,Siddharth,Madhya Pradesh,Indore
+G-25656,11-05-2023,Priyanka,Maharashtra,Pune
+G-25608,08-04-2023,Aarushi,Tamil Nadu,Chennai
+G-25752,14-08-2023,Vaibhav,Madhya Pradesh,Indore
+G-25779,12-09-2023,Savi,Maharashtra,Pune
+G-25603,03-04-2023,Jahan,Madhya Pradesh,Bhopal
+G-26051,07-03-2023,Parishi,West Bengal,Kolkata
+G-25653,08-05-2023,Farah,Nagaland,Kohima
+G-25855,08-11-2023,Abhijeet,Madhya Pradesh,Bhopal
+G-25762,26-08-2023,Anudeep,Madhya Pradesh,Indore
+G-25995,04-02-2023,Yohann,Delhi,Delhi
+G-25929,02-01-2023,Girase,Kerala ,Thiruvananthapuram
+G-26006,09-02-2023,Arpita,Karnataka,Bangalore
+G-25697,22-06-2023,Vijay,Jammu and Kashmir,Kashmir
+G-25836,29-10-2023,Arti,Maharashtra,Pune
+G-25601,01-04-2023,Bharat,Gujarat,Ahmedabad
+G-25873,23-11-2023,Divyeta,Madhya Pradesh,Indore
+G-26028,20-02-2023,Manju,Andhra Pradesh,Hyderabad
+G-25964,20-01-2023,Oshin,Maharashtra,Pune
+G-25676,01-06-2023,Chandni,Rajasthan,Jaipur
+G-25839,30-10-2023,Pranjali,West Bengal,Kolkata
+G-25894,04-12-2023,Monu,Punjab,Amritsar
+G-25925,29-12-2023,Shruti,Maharashtra,Mumbai
+G-25953,14-01-2023,Krutika,Andhra Pradesh,Hyderabad
+G-25772,02-09-2023,Sanjana,Bihar,Patna
+G-25957,18-01-2023,Mahima,Madhya Pradesh,Indore
+G-25730,22-07-2023,Rishabh,Rajasthan,Jaipur
+G-25877,24-11-2023,Dashyam,Gujarat,Surat
+G-26067,16-03-2023,Vinod,Madhya Pradesh,Bhopal
+G-25810,10-10-2023,Nripraj,Punjab,Chandigarh
+G-25868,18-11-2023,Vikash,Goa,Goa
+G-26023,19-02-2023,Shri,Haryana,Chandigarh
+G-25626,23-04-2023,Priya,Maharashtra,Mumbai
+G-25937,05-01-2023,Ankit,Haryana,Chandigarh
+G-25610,09-04-2023,Yogesh,Bihar,Patna
+G-25777,10-09-2023,Aditi,Madhya Pradesh,Indore
+G-25738,02-08-2023,Ayush,Punjab,Chandigarh
+G-25978,27-01-2023,Parin,Maharashtra,Mumbai
+G-25643,29-04-2023,Kirti,Jammu and Kashmir,Kashmir
+G-25728,22-07-2023,Ameesha,Karnataka,Bangalore
+G-25749,13-08-2023,Ayush,Maharashtra,Mumbai
+G-25667,23-05-2023,Anjali,Haryana,Chandigarh
+G-25657,13-05-2023,Tulika,Madhya Pradesh,Bhopal
+G-25753,17-08-2023,Shivam,Uttar Pradesh,Lucknow
+G-26061,14-03-2023,Anurag,Madhya Pradesh,Indore
+G-25838,29-10-2023,Sanjana,Andhra Pradesh,Hyderabad
+G-25702,27-06-2023,Shaily,Maharashtra,Mumbai
+G-25952,13-01-2023,Priyanka,Madhya Pradesh,Indore
+G-25666,22-05-2023,Tanvi,Punjab,Chandigarh
+G-25675,31-05-2023,Shreya,Madhya Pradesh,Bhopal
+G-25650,06-05-2023,Chirag,Maharashtra,Mumbai
+G-25986,31-01-2023,Shweta,Rajasthan,Udaipur
+G-25850,05-11-2023,Abhishek,Goa,Goa
+G-25898,07-12-2023,Abhishek,Rajasthan,Udaipur
+G-25813,10-10-2023,Hrisheekesh,Maharashtra,Mumbai
+G-25825,21-10-2023,Kartik,Madhya Pradesh,Indore
+G-25954,14-01-2023,Trupti,Gujarat,Ahmedabad
+G-25696,21-06-2023,Noopur,Karnataka,Bangalore
+G-25638,26-04-2023,Parth,Maharashtra,Pune
+G-25747,11-08-2023,Harsh,Madhya Pradesh,Bhopal
+G-25904,10-12-2023,Swapnil,Delhi,Delhi
+G-25852,07-11-2023,Shivya,Andhra Pradesh,Hyderabad
+G-25981,28-01-2023,Amruta,Delhi,Delhi
+G-25899,08-12-2023,Aishwarya,Uttar Pradesh,Prayagraj
+G-25870,20-11-2023,Pranav,Andhra Pradesh,Hyderabad
+G-26040,26-02-2023,Sahil,Punjab,Chandigarh
+G-25671,27-05-2023,Mitali,Nagaland,Kohima
+G-26100,31-03-2023,Hitika,Madhya Pradesh,Indore
+G-25651,07-05-2023,Anurag,Madhya Pradesh,Indore
+G-25968,21-01-2023,Paromita,Punjab,Amritsar
+G-26019,15-02-2023,Jitesh,Uttar Pradesh,Lucknow
+G-25664,20-05-2023,Pratyusmita,Bihar,Patna
+G-26033,22-02-2023,Atharv,West Bengal,Kolkata
+G-26052,08-03-2023,Ajay,Karnataka,Bangalore
+G-25999,05-02-2023,Diwakar,Delhi,Delhi
+G-25781,14-09-2023,Rutuja,Gujarat,Ahmedabad
+G-25764,28-08-2023,Sanjova,Maharashtra,Pune
+G-25803,05-10-2023,Shivanshu,Madhya Pradesh,Indore
+G-25945,11-01-2023,Keerti,Madhya Pradesh,Indore
+G-26086,26-03-2023,Mukesh,Haryana,Chandigarh
+G-25845,03-11-2023,Sunil,Kerala ,Thiruvananthapuram
+G-25817,13-10-2023,Praneet,Tamil Nadu,Coimbatore
+G-25951,13-01-2023,Jesal,West Bengal,Kolkata
+G-25970,22-01-2023,Rhea,Maharashtra,Mumbai
+G-25878,24-11-2023,Mrinal,Karnataka,Mangalore
+G-26057,10-03-2023,Sharda,Kerala ,Thiruvananthapuram
+G-25885,28-11-2023,Shatayu,Madhya Pradesh,Indore
+G-25897,06-12-2023,Rohan,Madhya Pradesh,Indore
+G-25756,20-08-2023,Mohan,Maharashtra,Mumbai
+G-25859,14-11-2023,Chikku,Madhya Pradesh,Indore
+G-25691,16-06-2023,Akancha,Maharashtra,Mumbai
+G-25633,26-04-2023,Amit,Sikkim,Gangtok
+G-25708,01-07-2023,Kishwar,Tamil Nadu,Coimbatore
+G-25831,27-10-2023,Mahima,Sikkim,Gangtok
+G-25856,10-11-2023,Abhijeet,Maharashtra,Mumbai
+G-25893,04-12-2023,Vrinda,Uttar Pradesh,Mathura
+G-25959,18-01-2023,Muskan,Madhya Pradesh,Indore
+G-26000,06-02-2023,Shubham,Delhi,Delhi
+G-26097,28-03-2023,Vini,Karnataka,Bangalore
+G-25745,09-08-2023,Kartik,Gujarat,Ahmedabad
+G-25974,25-01-2023,Deepi,Rajasthan,Udaipur
+G-25670,25-05-2023,Charika,Goa,Goa
+G-25848,03-11-2023,Rohan,Himachal Pradesh,Simla
+G-25888,02-12-2023,Rohan,Punjab,Amritsar
+G-25942,08-01-2023,Ankur,Andhra Pradesh,Hyderabad
+G-25847,03-11-2023,Aniket,Haryana,Chandigarh
+G-25636,26-04-2023,Nishi,Andra Pradesh,Hyderabad
+G-25826,22-10-2023,Tanushree,Tamil Nadu,Chennai
+G-26081,22-03-2023,Aarushi,Tamil Nadu,Chennai
+G-25625,23-04-2023,Pinky,Jammu and Kashmir,Kashmir
+G-25802,05-10-2023,Yash,Karnataka,Bangalore
+G-25693,18-06-2023,Parna,Madhya Pradesh,Bhopal
+G-25796,24-09-2023,Sukrith,Maharashtra,Mumbai
+G-25806,06-10-2023,Dhanraj,Madhya Pradesh,Indore
+G-25710,05-07-2023,Megha,Maharashtra,Pune
+G-25669,25-05-2023,Sam,Tamil Nadu,Chennai
+G-25857,10-11-2023,Anand,Karnataka,Bangalore
+G-25785,15-09-2023,Ayush,West Bengal,Kolkata
+G-25930,03-01-2023,Monica,Punjab,Chandigarh
+G-26053,09-03-2023,Kirti,Jammu and Kashmir,Kashmir
+G-26070,18-03-2023,Shruti,Karnataka,Bangalore
+G-25791,24-09-2023,Avish,Kerala ,Thiruvananthapuram
+G-25983,30-01-2023,Atul,Delhi,Delhi
+G-25979,27-01-2023,Shivangi,Madhya Pradesh,Indore
+G-26054,10-03-2023,Mayank,Maharashtra,Mumbai
+G-26078,22-03-2023,Kasheen,West Bengal,Kolkata
+G-25787,20-09-2023,Asish,Jammu and Kashmir,Kashmir
+G-25682,07-06-2023,Krutika,Bihar,Patna
+G-25962,19-01-2023,Tejeswini,Maharashtra,Pune
+G-25750,14-08-2023,Priyanshu,Madhya Pradesh,Indore
+G-25828,24-10-2023,Nikita,Punjab,Chandigarh
+G-25622,22-04-2023,Monisha,Rajasthan,Jaipur
+G-25751,14-08-2023,Nishant,Maharashtra,Mumbai
+G-25685,10-06-2023,Sheetal,Madhya Pradesh,Indore
+G-26010,11-02-2023,Kartikay,Bihar,Patna
+G-26035,23-02-2023,Pinky,Jammu and Kashmir,Kashmir
+G-25698,23-06-2023,Amisha,Tamil Nadu,Chennai
+G-25966,21-01-2023,Sowmya,Karnataka,Bangalore
+G-25832,28-10-2023,Harshita,Maharashtra,Mumbai
+G-25743,07-08-2023,Aman,Nagaland,Kohima
+G-25886,28-11-2023,Brijesh,Rajasthan,Udaipur
+G-25975,25-01-2023,Priyanka,Uttar Pradesh,Prayagraj
+G-26098,29-03-2023,Pinky,Jammu and Kashmir,Kashmir
+G-25614,13-04-2023,Vandana,Himachal Pradesh,Simla
+G-25726,21-07-2023,Kiran,Maharashtra,Mumbai
+G-26050,06-03-2023,Paridhi,Rajasthan,Jaipur
+G-25609,09-04-2023,Jitesh,Uttar Pradesh,Lucknow
+G-25741,03-08-2023,Navdeep,Madhya Pradesh,Indore
+G-25956,17-01-2023,Shreya,Maharashtra,Mumbai
+G-25689,14-06-2023,Bhagya Shree,Tamil Nadu,Chennai
+G-25939,05-01-2023,Vineet,Sikkim,Gangtok
+G-25890,04-12-2023,Divyansha,Maharashtra,Mumbai
+G-25814,10-10-2023,Swapnil,Madhya Pradesh,Indore
+G-25718,12-07-2023,Anjali,Maharashtra,Mumbai
+G-25914,18-12-2023,Kajal,Delhi,Delhi
+G-25903,10-12-2023,Amlan,Madhya Pradesh,Indore
+G-26096,28-03-2023,Atharv,West Bengal,Kolkata
+G-25654,10-05-2023,Sabah,Maharashtra,Mumbai
+G-26076,21-03-2023,Jahan,Madhya Pradesh,Bhopal
+G-25961,18-01-2023,Surbhi,Gujarat,Ahmedabad
+G-25854,08-11-2023,Shubham,Maharashtra,Pune
+G-25642,28-04-2023,Ajay,Karnataka,Bangalore
+G-25683,08-06-2023,Shreya,Kerala ,Thiruvananthapuram
+G-26016,14-02-2023,Hazel,Karnataka,Bangalore
+G-26034,23-02-2023,Vini,Karnataka,Bangalore
+G-26056,10-03-2023,Sonal,Bihar,Patna
+G-25819,15-10-2023,Ankur,Madhya Pradesh,Bhopal
+G-25715,10-07-2023,Srishti,Jammu and Kashmir,Kashmir
+G-25933,04-01-2023,Shikhar,Tamil Nadu,Coimbatore
+G-26014,13-02-2023,Divsha,Rajasthan,Jaipur
+G-25655,11-05-2023,Nani,Madhya Pradesh,Indore
+G-25816,12-10-2023,Manu,Andhra Pradesh,Hyderabad
+G-25634,26-04-2023,Sanjay,Goa,Goa
+G-25895,04-12-2023,Sathya,Gujarat,Surat
+G-25687,11-06-2023,Sanjna,Maharashtra,Mumbai
+G-25662,17-05-2023,Sweta,Maharashtra,Mumbai
+G-25635,26-04-2023,Nidhi,Nagaland,Kohima
+G-26060,13-03-2023,Chirag,Maharashtra,Mumbai
+G-26045,03-03-2023,Nidhi,Nagaland,Kohima
+G-25770,02-09-2023,Sakshi,Madhya Pradesh,Indore
+G-25744,08-08-2023,Devendra,Andhra Pradesh,Hyderabad
+G-25618,18-04-2023,Manju,Andhra Pradesh,Hyderabad
+G-25958,18-01-2023,Aparajita,West Bengal,Kolkata
+G-25769,02-09-2023,Surbhi,Maharashtra,Mumbai
+G-25619,18-04-2023,Ramesh,Gujarat,Ahmedabad
+G-25688,11-06-2023,Swetha,Madhya Pradesh,Indore
+G-25829,25-10-2023,Apoorva,Haryana,Chandigarh
+G-26036,23-02-2023,Bhishm,Maharashtra,Mumbai
+G-25714,09-07-2023,Stuti,Karnataka,Bangalore
+G-25989,01-02-2023,Anjali,Delhi,Delhi
+G-25849,04-11-2023,Karthik,Sikkim,Gangtok
+G-25851,06-11-2023,Kushal,Nagaland,Kohima
+G-25782,15-09-2023,Aayushi,Maharashtra,Mumbai
+G-25621,20-04-2023,Deepak,Madhya Pradesh,Bhopal
+G-25996,04-02-2023,Prashant,Delhi,Delhi
+G-25678,03-06-2023,Bathina,Karnataka,Bangalore
+G-25727,22-07-2023,Turumella,Madhya Pradesh,Indore
+G-26018,14-02-2023,Aarushi,Tamil Nadu,Chennai
+G-25760,24-08-2023,Pooja,Goa,Goa
+G-25804,05-10-2023,Sudheer,Karnataka,Bangalore
+G-25754,18-08-2023,Akshay,Bihar,Patna
+G-26020,16-02-2023,Yogesh,Bihar,Patna
+G-25640,27-04-2023,Paridhi,Rajasthan,Jaipur
+G-25789,22-09-2023,Akshay,Uttar Pradesh,Lucknow
+G-26072,20-03-2023,Sweta,Maharashtra,Mumbai
+G-26007,09-02-2023,Shubham,Jammu and Kashmir,Kashmir
+G-26087,26-03-2023,Vandana,Himachal Pradesh,Simla
+G-25617,17-04-2023,Sagar,Nagaland,Kohima
+G-25984,30-01-2023,Kajal,Delhi,Delhi
+G-25767,31-08-2023,Ashmeet,West Bengal,Kolkata
+G-25987,31-01-2023,Manjiri,Delhi,Delhi
+G-25840,31-10-2023,Sneha,Karnataka,Bangalore
+G-25663,19-05-2023,Pournamasi,Madhya Pradesh,Indore
+G-26030,21-02-2023,Sarita,Maharashtra,Pune
+G-25947,13-01-2023,Chetan,Gujarat,Ahmedabad
+G-25896,05-12-2023,Aman,Maharashtra,Mumbai
+G-26009,10-02-2023,Komal,Uttar Pradesh,Lucknow
+G-25876,24-11-2023,Kishan,Punjab,Amritsar
+G-25915,19-12-2023,Sukruta,Punjab,Amritsar
+G-25795,24-09-2023,Sukant,Sikkim,Gangtok
+G-26002,08-02-2023,Harsh,Delhi,Delhi
+G-25645,01-05-2023,Yaanvi,Madhya Pradesh,Indore
+G-25837,29-10-2023,Palak,Karnataka,Mangalore
+G-25612,12-04-2023,Shrichand,Punjab,Chandigarh
+G-25812,10-10-2023,Kshitij,Madhya Pradesh,Indore
+G-25843,03-11-2023,Mrunal,Maharashtra,Mumbai
+G-26026,19-02-2023,Thakur,Goa,Goa
+G-25773,06-09-2023,Shreya,Kerala ,Thiruvananthapuram
+G-25875,24-11-2023,Divyeshkumar,Uttar Pradesh,Prayagraj
+G-25660,16-05-2023,Shruti,Karnataka,Bangalore
+G-25918,22-12-2023,Karandeep,Madhya Pradesh,Indore
+G-25971,22-01-2023,Mitali,Madhya Pradesh,Indore
+G-26063,15-03-2023,Farah,Nagaland,Kohima
+G-25867,17-11-2023,Ankit,Sikkim,Gangtok
+G-25703,28-06-2023,Ekta,Madhya Pradesh,Indore
+G-25661,17-05-2023,Subhashree,Jammu and Kashmir,Kashmir
+G-25748,12-08-2023,Nitant,Rajasthan,Jaipur
+G-25766,30-08-2023,Surabhi,Karnataka,Bangalore
+G-25861,15-11-2023,Aayush,Uttar Pradesh,Lucknow
+G-26058,11-03-2023,Aditya,Punjab,Chandigarh
+G-25808,08-10-2023,Apsingekar,Bihar,Patna
+G-25900,09-12-2023,Anand,Punjab,Amritsar
+G-26084,25-03-2023,Anita,Kerala ,Thiruvananthapuram
+G-25652,08-05-2023,Tushina,Goa,Goa
+G-26008,09-02-2023,Kalyani,Tamil Nadu,Chennai
+G-25799,01-10-2023,Divyansh,Gujarat,Ahmedabad
+G-25927,31-12-2023,Shreya,Uttar Pradesh,Lucknow
+G-25985,31-01-2023,Ginny,Madhya Pradesh,Indore
+G-25994,03-02-2023,Omkar,Delhi,Delhi
+G-25620,20-04-2023,Sarita,Maharashtra,Pune
+G-25712,07-07-2023,Adhvaita,Rajasthan,Jaipur
+G-25976,25-01-2023,Piyam,Punjab,Amritsar
+G-26068,16-03-2023,Shefali,Rajasthan,Jaipur
+G-25721,16-07-2023,Anchal,Haryana,Chandigarh
+G-25863,15-11-2023,Manibalan,Kerala ,Thiruvananthapuram
+G-25991,03-02-2023,Mansi,Tamil Nadu,Coimbatore
+G-25737,01-08-2023,Shubham,Madhya Pradesh,Indore
+G-26043,01-03-2023,Amit,Sikkim,Gangtok
+G-25977,27-01-2023,Aayushi,Gujarat,Surat
+G-25908,12-12-2023,Pradeep,Delhi,Delhi
+G-25941,07-01-2023,Jaideep,Nagaland,Kohima
+G-25794,24-09-2023,Aditya,Himachal Pradesh,Simla
+G-26041,27-02-2023,Ritu,Haryana,Chandigarh
+G-25695,18-06-2023,Suhani,West Bengal,Kolkata
+G-25960,18-01-2023,Shreya,Andhra Pradesh,Hyderabad
+G-26037,23-02-2023,Hitika,Madhya Pradesh,Indore
+G-25921,25-12-2023,Sandra,Punjab,Amritsar
+G-25944,10-01-2023,Syed,Maharashtra,Pune
+G-25724,19-07-2023,Sheetal,Madhya Pradesh,Indore
+G-26024,19-02-2023,Vandana,Himachal Pradesh,Simla
+G-25694,18-06-2023,Subhasmita,Rajasthan,Jaipur
+G-25665,21-05-2023,Chayanika,Kerala ,Thiruvananthapuram
+G-26004,08-02-2023,Nandita,Rajasthan,Jaipur
+G-25611,11-04-2023,Anita,Kerala ,Thiruvananthapuram
+G-25901,10-12-2023,Suraj,Gujarat,Surat
+G-25623,22-04-2023,Atharv,West Bengal,Kolkata
+G-25713,08-07-2023,Raksha,West Bengal,Kolkata
+G-26091,27-03-2023,Manju,Andhra Pradesh,Hyderabad
+G-25604,03-04-2023,Divsha,Rajasthan,Jaipur
+G-25827,23-10-2023,Sheetal,Madhya Pradesh,Indore
+G-25835,29-10-2023,Moumita,Gujarat,Ahmedabad
+G-26025,19-02-2023,Bhavna,Sikkim,Gangtok
+G-25809,09-10-2023,Suman,Kerala ,Thiruvananthapuram
+G-25905,11-12-2023,Bhargav,Delhi,Delhi
+G-25948,13-01-2023,Mukund,Maharashtra,Pune
+G-26094,27-03-2023,Deepak,Madhya Pradesh,Bhopal
+G-25949,13-01-2023,Shantanu,Maharashtra,Mumbai
+G-26001,07-02-2023,Patil,Delhi,Delhi
+G-25771,02-09-2023,Vaibhavi,Uttar Pradesh,Lucknow
+G-25659,15-05-2023,Sanskriti,West Bengal,Kolkata
+G-25924,28-12-2023,Prajakta,Karnataka,Bangalore
+G-25883,27-11-2023,Saptadeep,Gujarat,Surat
+G-25946,12-01-2023,Saurabh,Andhra Pradesh,Hyderabad
+G-26065,16-03-2023,Madesh,Madhya Pradesh,Indore
+G-26083,24-03-2023,Pranav,Bihar,Patna
+G-25725,20-07-2023,Anisha,Nagaland,Kohima
+G-25630,24-04-2023,Sahil,Punjab,Chandigarh
+G-25673,28-05-2023,Arsheen,Gujarat,Ahmedabad
+G-25692,17-06-2023,Rashmi,Madhya Pradesh,Indore
+G-25992,03-02-2023,Gaurav,Rajasthan,Udaipur
+G-25765,29-08-2023,Meghana,Madhya Pradesh,Bhopal
+G-25892,04-12-2023,Aditi,Rajasthan,Udaipur
+G-26089,26-03-2023,Kanak,Goa,Goa
+G-25780,13-09-2023,Teena,Andhra Pradesh,Hyderabad
+G-25684,09-06-2023,Samiksha,Maharashtra,Mumbai
+G-25739,03-08-2023,Daksh,Haryana,Chandigarh
+G-25731,26-07-2023,Akash,West Bengal,Kolkata
+G-25648,04-05-2023,Aditya,Punjab,Chandigarh
+G-26038,24-02-2023,Pooja,Bihar,Patna
+G-25700,25-06-2023,Shubhi,Maharashtra,Mumbai
+G-26015,14-02-2023,Kasheen,West Bengal,Kolkata
+G-25704,29-06-2023,Riya,Maharashtra,Mumbai
+G-25811,10-10-2023,Gagana,Tamil Nadu,Coimbatore
+G-25821,16-10-2023,Ajay,West Bengal,Kolkata
+G-25874,24-11-2023,Megha,Rajasthan,Udaipur
+G-25668,24-05-2023,Rhea,Himachal Pradesh,Simla
+G-25800,01-10-2023,Ishit,Maharashtra,Pune
+G-25928,01-01-2023,Smriti,Bihar,Patna
+G-26021,17-02-2023,Anita,Kerala ,Thiruvananthapuram
+G-26064,16-03-2023,Ankita,Maharashtra,Mumbai
+G-25882,26-11-2023,Masurkar,Punjab,Amritsar
+G-25891,04-12-2023,Shivani,Madhya Pradesh,Indore
+G-25820,16-10-2023,Dheeraj,Rajasthan,Jaipur
+G-25889,03-12-2023,Abhishek,Gujarat,Surat
+G-25871,21-11-2023,Ganesh,Tamil Nadu,Coimbatore
+G-25637,26-04-2023,Ashmi,Madhya Pradesh,Indore
+G-25616,15-04-2023,Kanak,Goa,Goa
+G-25972,23-01-2023,Jesslyn,Rajasthan,Udaipur
+G-25805,05-10-2023,Ankit,Maharashtra,Mumbai
+G-25860,15-11-2023,Akshay,Tamil Nadu,Chennai
+G-26080,22-03-2023,Sonakshi,Jammu and Kashmir,Kashmir
+G-25807,07-10-2023,Vipul,Uttar Pradesh,Lucknow
+G-25734,29-07-2023,Pranav,Madhya Pradesh,Indore
+G-25880,24-11-2023,Apoorv,Rajasthan,Udaipur
+G-25934,04-01-2023,Rahul,Madhya Pradesh,Indore
+G-25913,17-12-2023,Geetanjali,Delhi,Gurgaon
+G-25912,16-12-2023,Preksha,Delhi,Gurgaon
+G-25824,20-10-2023,Shyam,Madhya Pradesh,Indore
+G-25711,06-07-2023,Sakshi,Madhya Pradesh,Bhopal
+G-25864,15-11-2023,Aromal,Maharashtra,Mumbai
+G-25917,21-12-2023,Sanjay,Maharashtra,Mumbai
+G-26049,05-03-2023,Lisha,Madhya Pradesh,Bhopal
+G-25920,24-12-2023,Jayanti,Uttar Pradesh,Prayagraj
+G-25699,24-06-2023,Kritika,Uttar Pradesh,Lucknow
+G-25735,30-07-2023,Arindam,Uttar Pradesh,Lucknow
+G-25701,26-06-2023,Maithilee,Madhya Pradesh,Indore
+G-26092,27-03-2023,Ramesh,Gujarat,Ahmedabad
+G-26082,23-03-2023,Jitesh,Uttar Pradesh,Lucknow
+G-25818,14-10-2023,Sandeep,Madhya Pradesh,Indore
+G-25846,03-11-2023,Soodesh,Punjab,Chandigarh
+G-26011,12-02-2023,Bharat,Gujarat,Ahmedabad
+G-25631,24-04-2023,Ritu,Haryana,Chandigarh
+G-25606,06-04-2023,Hazel,Karnataka,Bangalore
+G-25746,10-08-2023,Shivam,Maharashtra,Pune
+G-26005,08-02-2023,Parnavi,West Bengal,Kolkata
+G-25844,03-11-2023,Swati,Madhya Pradesh,Indore
+G-25869,19-11-2023,Parakh,Nagaland,Kohima
+G-26066,16-03-2023,Priyanka,Maharashtra,Pune
+G-25865,15-11-2023,Arun,Madhya Pradesh,Indore
+G-26039,25-02-2023,Hemant,Kerala ,Thiruvananthapuram
+G-25916,20-12-2023,Utkarsh,Gujarat,Surat
+G-26090,27-03-2023,Sagar,Nagaland,Kohima
+G-25988,31-01-2023,Nirja,Delhi,Delhi
+G-25906,11-12-2023,Abhijit,Delhi,Delhi
+G-26017,14-02-2023,Sonakshi,Jammu and Kashmir,Kashmir
+G-25644,30-04-2023,Mayank,Maharashtra,Mumbai
+G-25679,04-06-2023,Avni,Maharashtra,Mumbai
+G-25723,18-07-2023,Wale,Maharashtra,Mumbai
+G-25605,05-04-2023,Kasheen,West Bengal,Kolkata
+G-25792,24-09-2023,Abhishek,Maharashtra,Mumbai
+G-25680,04-06-2023,Aayushi,Madhya Pradesh,Indore
+G-25931,04-01-2023,Sidharth,Maharashtra,Mumbai
+G-25932,04-01-2023,Bhutekar,Madhya Pradesh,Indore
+G-25990,02-02-2023,Mugdha,Delhi,Delhi
+G-25615,15-04-2023,Bhavna,Sikkim,Gangtok
+G-26031,22-02-2023,Deepak,Madhya Pradesh,Bhopal
+G-25801,01-10-2023,Aryan,Madhya Pradesh,Bhopal
+G-25833,29-10-2023,Krishna,Madhya Pradesh,Indore
+G-26077,22-03-2023,Divsha,Rajasthan,Jaipur
+G-25936,05-01-2023,Nikhil,Punjab,Chandigarh
+G-25938,05-01-2023,Shikhar,Himachal Pradesh,Simla
+G-25716,11-07-2023,Surabhi,Tamil Nadu,Chennai
+G-25740,03-08-2023,Rana,Karnataka,Bangalore
+G-25763,27-08-2023,Noshiba,Gujarat,Ahmedabad
+G-25872,22-11-2023,Saurabh,Maharashtra,Mumbai
+G-25879,24-11-2023,Siddharth,Madhya Pradesh,Indore
+G-25926,30-12-2023,Dipali,Madhya Pradesh,Indore
+G-26074,21-03-2023,Bharat,Gujarat,Ahmedabad
+G-25627,23-04-2023,Hitika,Madhya Pradesh,Indore
+G-25940,06-01-2023,Vivek,Goa,Goa
+G-26047,04-03-2023,Ashmi,Madhya Pradesh,Indore
+G-26069,17-03-2023,Sanskriti,West Bengal,Kolkata
+G-26027,20-02-2023,Sagar,Nagaland,Kohima
+G-25963,19-01-2023,Pratiksha,Maharashtra,Mumbai
+G-25922,26-12-2023,Akshata,Gujarat,Surat
+G-25866,16-11-2023,Komal,Himachal Pradesh,Simla
+G-25607,06-04-2023,Sonakshi,Jammu and Kashmir,Kashmir
+G-25775,08-09-2023,Duhita,Haryana,Chandigarh
+G-25998,04-02-2023,Anmol,Rajasthan,Udaipur
+G-26062,15-03-2023,Tushina,Goa,Goa
+G-25722,17-07-2023,Inderpreet,Himachal Pradesh,Simla
+G-25776,09-09-2023,Mousam,Maharashtra,Mumbai
+G-26032,22-02-2023,Monisha,Rajasthan,Jaipur
+G-25705,30-06-2023,Shweta,Madhya Pradesh,Indore
+G-25628,24-04-2023,Pooja,Bihar,Patna
+G-25733,28-07-2023,Dhirajendu,Maharashtra,Mumbai
+G-25647,03-05-2023,Sharda,Kerala ,Thiruvananthapuram
+G-25790,23-09-2023,Sajal,Bihar,Patna
+G-25709,01-07-2023,Aakanksha,Madhya Pradesh,Indore
+G-25911,15-12-2023,Phalguni,Madhya Pradesh,Bhopal
+G-25774,07-09-2023,Snehal,Punjab,Chandigarh
+G-26042,28-02-2023,Manish,Himachal Pradesh,Simla
+G-25815,10-10-2023,Harsh,Nagaland,Kohima
+G-25822,18-10-2023,Tejas,Karnataka,Bangalore
+G-26075,21-03-2023,Pearl,Maharashtra,Pune
+G-25783,15-09-2023,Shivangi,Madhya Pradesh,Indore
+G-26046,04-03-2023,Nishi,Maharashtra,Mumbai
+G-25690,15-06-2023,Gunjan,Madhya Pradesh,Indore
+G-25706,01-07-2023,Swetlana,Goa,Goa
+G-25736,31-07-2023,Akshat,Maharashtra,Mumbai
+G-25720,15-07-2023,Namrata,Punjab,Chandigarh
+G-25907,11-12-2023,Jaydeep,Madhya Pradesh,Bhopal
+G-25719,12-07-2023,Rashmi,Madhya Pradesh,Indore
+G-26013,13-02-2023,Jahan,Madhya Pradesh,Bhopal
+G-26044,02-03-2023,Sanjay,Goa,Goa
+G-25649,05-05-2023,Rachna,Haryana,Chandigarh
+G-25658,14-05-2023,Shefali,Rajasthan,Jaipur
+G-25672,28-05-2023,Akanksha,Andhra Pradesh,Hyderabad
+G-25624,22-04-2023,Vini,Karnataka,Bangalore
+G-25884,28-11-2023,Sumeet,Maharashtra,Mumbai
+G-25641,27-04-2023,Parishi,West Bengal,Kolkata
+G-25841,01-11-2023,Ashvini,Maharashtra,Mumbai
+G-25980,27-01-2023,Shweta,Rajasthan,Udaipur
+G-26012,13-02-2023,Pearl,Maharashtra,Pune
+G-26029,20-02-2023,Ramesh,Gujarat,Ahmedabad
+G-26071,19-03-2023,Subhashree,Jammu and Kashmir,Kashmir
+G-25646,01-05-2023,Sonal,Bihar,Patna
+G-25677,02-06-2023,Ekta,West Bengal,Kolkata
+G-25759,23-08-2023,Soumya,Sikkim,Gangtok
+G-26059,12-03-2023,Rachna,Haryana,Chandigarh
+G-25632,25-04-2023,Manish,Himachal Pradesh,Simla
+G-26079,22-03-2023,Hazel,Karnataka,Bangalore
+G-25674,28-05-2023,Mahima,Maharashtra,Pune
+G-25965,21-01-2023,Saloni,West Bengal,Kolkata
+G-25732,27-07-2023,Anubhaw,Karnataka,Bangalore
+G-25834,29-10-2023,Ananya,Andhra Pradesh,Hyderabad
+G-25784,15-09-2023,Rohit,Rajasthan,Jaipur
+G-25982,29-01-2023,Hemangi,Delhi,Delhi
+G-25788,21-09-2023,Dinesh,Tamil Nadu,Chennai
+G-25742,03-08-2023,Ashwin,Goa,Goa
+G-26088,26-03-2023,Bhavna,Sikkim,Gangtok
+G-25707,01-07-2023,Shivani,Maharashtra,Mumbai
+G-25758,22-08-2023,Shubham,Himachal Pradesh,Simla
+G-26095,28-03-2023,Monisha,Rajasthan,Jaipur
