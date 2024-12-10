@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Power BI report offers a detailed analysis of e-commerce sales data, focusing on product performance, customer purchasing behaviour, seasonal demand patterns, payment methods and revenue trends. It provides actionable insights into sales growth, customer preferences and engagement patterns, enabling strategic decision-making for inventory management, marketing optimization, and market expansion.
+This Power BI report offers a detailed analysis of E-commerce sales data, focusing on product performance, customer purchasing behaviour, seasonal demand patterns, payment methods and revenue trends. It provides actionable insights into sales growth, customer preferences and engagement patterns, enabling strategic decision-making for inventory management, marketing optimization, and market expansion.
 
 
 ## Data
